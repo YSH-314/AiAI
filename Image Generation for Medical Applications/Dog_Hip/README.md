@@ -46,6 +46,8 @@ from torch import autocast
 from diffusers import StableDiffusionPipeline, DDIMScheduler
 from IPython.display import display
 
+#### Load diffusion model weights:
+```python
 model_path = "your_path_to_model_weight"       
 pipe = StableDiffusionPipeline.from_pretrained(model_path, safety_checker=None, torch_dtype=torch.float16).to('cuda')
 pipe.scheduler = DDIMScheduler.from_config(pipe.scheduler.config)
@@ -54,6 +56,8 @@ g_cuda = torch.Generator(device='cuda')
 seed = 52362 #@param {type:"number"}
 g_cuda.manual_seed(seed)
 
+#### inference:
+```python
 prompt = "give_a_prompt" #@param {type:"string"} # ex:x-ray of doghips with black background
 negative_prompt = "" #@param {type:"string"}
 num_samples = 1 #@param {type:"number"}
