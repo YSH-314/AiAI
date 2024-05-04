@@ -40,7 +40,7 @@ array of visual contexts, fostering robust model learning and adaptation
 ## Inference from diffusion models:
 #### import the packages:
 ```python
-# Sample Python code
+
 import torch
 from torch import autocast
 from diffusers import StableDiffusionPipeline, DDIMScheduler
