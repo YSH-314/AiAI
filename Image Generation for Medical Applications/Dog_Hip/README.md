@@ -9,5 +9,5 @@ The objective of this study is to leverage the diffusion model to enhance the or
 
 ## Image generation from Diffusion models 
 you can find the model weights through the [link](http://www.reddit.com https://yuad-my.sharepoint.com/:f:/g/personal/syueh_mail_yu_edu/EtfXe9VM9rtIoYwemdFNoxoBma16sDeEfTBqY8VSZkXkiA?e=SJiHXb)
-
+[Lets go to Quora](https://www.quora.com)
 
