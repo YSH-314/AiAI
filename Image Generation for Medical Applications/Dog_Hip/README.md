@@ -3,7 +3,7 @@ The objective of this study is to leverage the diffusion model to enhance the or
 
 <img src="https://github.com/YoushanZhang/AiAI/assets/74528993/3c3fd898-7857-4f2a-88fd-723165ddfb4f" width="620" height="520">
 
-##The workflow of the study
+## The workflow of the study
 <img src="https://github.com/YoushanZhang/AiAI/assets/74528993/8ce23469-dc6c-4eb3-8fa9-781e1f20cb92" width="720" height="520">
 
 
