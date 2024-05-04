@@ -8,9 +8,10 @@ The objective of this study is to leverage the diffusion model to enhance the or
 
 
 ## Image generation from Diffusion models 
-you can find the model weights through the
+You can find the model weights through the [link](https://shorturl.at/pAY49)
 
-[link](https://shorturl.at/pAY49)
+### Examples of generated images_1:
+![all_example_1](https://github.com/YSH-314/AiAI/assets/74528993/236c09c6-2e4d-43b7-af1f-6313e279c3b5)
 
-[link](http://www.reddit.com https://yuad-my.sharepoint.com/:f:/g/personal/syueh_mail_yu_edu/EtfXe9VM9rtIoYwemdFNoxoBma16sDeEfTBqY8VSZkXkiA?e=SJiHXb)
-
+### Examples of generated images_2:
+![all_example_2](https://github.com/YSH-314/AiAI/assets/74528993/1daddc41-df10-4945-ae24-269611550c6a)
