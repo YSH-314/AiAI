@@ -1,5 +1,5 @@
 # Image generation for the radiography of dog hip.
-The objective of this study is to leverage the diffusion model to enhance the original dataset and subsequently enhance the performance of the Norberg Angle prediction model. Norberg Angle is depicted in the figure below.
+The aim of this study is to utilize the diffusion model to augment the original dataset, thereby improving the performance of the Norberg Angle prediction model. The Norberg Angle is illustrated in the figure below. The study involved fine-tuning the DDPM, DreamBooth, and Stable Diffusion models to produce high-quality images. Moreover, a tailored model that amalgamated the EfficientNet and ViT_Gigantic_Patch14_Clip_224 architectures achieved the lowest prediction loss.
 
 <img src="https://github.com/YoushanZhang/AiAI/assets/74528993/3c3fd898-7857-4f2a-88fd-723165ddfb4f" width="450" height="250">
 
