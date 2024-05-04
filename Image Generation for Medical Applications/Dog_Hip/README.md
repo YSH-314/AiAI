@@ -86,4 +86,3 @@ for seed in range(i):
         img = img.resize((1908,768)) # adjust based on your need
         #img.save(f'path_to_your_folder_filename.png','PNG')
         display(img)
-        i+=1
