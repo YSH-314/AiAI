@@ -45,7 +45,7 @@ import torch
 from torch import autocast
 from diffusers import StableDiffusionPipeline, DDIMScheduler
 from IPython.display import display
-
+```
 #### Load diffusion model weights:
 ```python
 model_path = "your_path_to_model_weight"       
@@ -55,7 +55,7 @@ pipe.enable_xformers_memory_efficient_attention()
 g_cuda = torch.Generator(device='cuda')
 seed = 52362 #@param {type:"number"}
 g_cuda.manual_seed(seed)
-
+```
 #### inference:
 ```python
 prompt = "give_a_prompt" #@param {type:"string"} # ex:x-ray of doghips with black background
@@ -65,7 +65,7 @@ guidance_scale = 7.5 #@param {type:"number"}
 num_inference_steps = 24 #@param {type:"number"} 
 height = 512 #@param {type:"number"}
 width = 512 #@param {type:"number"}
-
+```
 # This example makes the model generate 500 images 
 i=499
 for seed in range(i):
@@ -90,3 +90,4 @@ for seed in range(i):
         img = img.resize((1908,768)) # adjust based on your need
         #img.save(f'path_to_your_folder_filename.png','PNG')
         display(img)
+```
