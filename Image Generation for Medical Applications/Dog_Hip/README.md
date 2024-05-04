@@ -65,7 +65,6 @@ guidance_scale = 7.5 #@param {type:"number"}
 num_inference_steps = 24 #@param {type:"number"} 
 height = 512 #@param {type:"number"}
 width = 512 #@param {type:"number"}
-```
 # This example makes the model generate 500 images 
 i=499
 for seed in range(i):
