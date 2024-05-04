@@ -9,6 +9,7 @@ The aim of this study is to utilize the diffusion model to augment the original 
 
 ## Image generation from Diffusion models 
 You can find the diffusion model weights through the [link](https://shorturl.at/pAY49)
+Also, you can find all the generated images [here](https://drive.google.com/drive/folders/1Y_rxgAFNPX2thpiiFbtdiF52q3OT3mbK?usp=drive_link) 
 
 ### Examples of generated images_1:
 <img src="https://github.com/YSH-314/AiAI/assets/74528993/236c09c6-2e4d-43b7-af1f-6313e279c3b5" width="750" height="400">
