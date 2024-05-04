@@ -14,7 +14,7 @@ Also, you can find all the generated images [here](https://drive.google.com/driv
 
 In total, our dataset comprises 1047 real-world images and 1474 generated images. To prevent data leakage and ensure unbiased evaluation, we
 meticulously partitioned the dataset into distinct training, testing, and validation sets. Specifically, the training set encompasses Set1, Set2,
-Set3, and a subset of Set4, as delineated in Table 2. The testing and
+Set3, and a subset of Set4, as delineated in the following table. The testing and
 validation sets were both split from real-word image Set4. This selection
 rationale ensures that the training data encapsulates a diverse
 array of visual contexts, fostering robust model learning and adaptation
