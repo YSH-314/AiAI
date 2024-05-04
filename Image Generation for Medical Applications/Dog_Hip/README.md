@@ -37,5 +37,12 @@ array of visual contexts, fostering robust model learning and adaptation
 ### Examples of generated images_2:
 <img src="https://github.com/YSH-314/AiAI/assets/74528993/1daddc41-df10-4945-ae24-269611550c6a" width="650" height="450">
 
-## 
+## Inference from diffusion models:
+#### import the packages:
+```python
+# Sample Python code
+import torch
+from torch import autocast
+from diffusers import StableDiffusionPipeline, DDIMScheduler
+from IPython.display import display
 
