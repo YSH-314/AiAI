@@ -38,7 +38,7 @@ array of visual contexts, fostering robust model learning and adaptation
 <img src="https://github.com/YSH-314/AiAI/assets/74528993/1daddc41-df10-4945-ae24-269611550c6a" width="650" height="450">
 
 ## Inference from diffusion models:
-#### import the packages:
+#### Import the packages:
 ```python
 
 import torch
@@ -56,7 +56,7 @@ g_cuda = torch.Generator(device='cuda')
 seed = 52362 #@param {type:"number"}
 g_cuda.manual_seed(seed)
 ```
-#### inference:
+#### Inference:
 ```python
 prompt = "give_a_prompt" #@param {type:"string"} # ex:x-ray of doghips with black background
 negative_prompt = "" #@param {type:"string"}
