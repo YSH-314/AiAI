@@ -11,8 +11,8 @@ The objective of this study is to leverage the diffusion model to enhance the or
 You can find the model weights through the [link](https://shorturl.at/pAY49)
 
 ### Examples of generated images_1:
-<img src="https://github.com/YSH-314/AiAI/assets/74528993/236c09c6-2e4d-43b7-af1f-6313e279c3b5" width="450" height="450">
+<img src="https://github.com/YSH-314/AiAI/assets/74528993/236c09c6-2e4d-43b7-af1f-6313e279c3b5" width="750" height="450">
 
 ### Examples of generated images_2:
-<img src="https://github.com/YSH-314/AiAI/assets/74528993/1daddc41-df10-4945-ae24-269611550c6a" width="450" height="450">
+<img src="https://github.com/YSH-314/AiAI/assets/74528993/1daddc41-df10-4945-ae24-269611550c6a" width="750" height="450">
 
