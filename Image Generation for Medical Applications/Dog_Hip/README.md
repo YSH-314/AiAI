@@ -8,7 +8,8 @@ The aim of this study is to utilize the diffusion model to augment the original 
 
 
 ## Image generation from Diffusion models 
-You can find the diffusion model weights through the [link](https://shorturl.at/pAY49)
+You can find the diffusion model weights through the [link](https://yuad-my.sharepoint.com/:f:/g/personal/syueh_mail_yu_edu/EtfXe9VM9rtIoYwemdFNoxoBma16sDeEfTBqY8VSZkXkiA?e=AdV3Jj)
+
 
 Also, you can find all the generated images [here](https://drive.google.com/drive/folders/1Y_rxgAFNPX2thpiiFbtdiF52q3OT3mbK?usp=drive_link) 
 
