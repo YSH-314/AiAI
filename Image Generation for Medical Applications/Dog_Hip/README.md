@@ -92,3 +92,5 @@ for seed in range(i):
         #img.save(f'path_to_your_folder_filename.png','PNG')
         display(img)
 ```
+## Norberg Angle prediction model:
+The `tool2.ipynb` provides the data preprocessing and model architectures. `Dog_hip_training_v15.ipynb` provides the whole training process and the prediction results. The best performance model v4 can be found in the `NA_prediction_model_weights` folder through the [link](https://shorturl.at/pAY49) 
